@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "tarotales"
+version = "0.1.0"
+description = ""
+authors = ["AkashSalunkhe111 <salunkheakash111@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+dspy-ai = "^2.4.0"
+uvicorn = "^0.29.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

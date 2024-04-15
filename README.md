@@ -1,1 +1,1 @@
-# fantasy-tarot
+# tarotales

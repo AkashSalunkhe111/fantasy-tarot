@@ -1,0 +1,37 @@
+{
+  "generate_tarot_description": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "universe_name": "Harry Potter",
+        "charactor_name": "Ron weasley",
+        "person_name": "Akash Salunkhe",
+        "rationale": "create the tarot card description for Ron Weasley for Akash Salunkhe.",
+        "tarot_card_description": "The Loyal Friend (Ron Weasley) For Akash Salunkhe Meaning (Upright): The Loyal Friend card, symbolized by Ron Weasley from the Harry Potter series, signifies unwavering support, steadfast companionship, and the power of loyalty in forging strong bonds. This card represents the importance of having"
+      },
+      {
+        "augmented": true,
+        "universe_name": "Harry Potter",
+        "charactor_name": "Dobby",
+        "person_name": "John Doe",
+        "rationale": "create the tarot card description for Dobby from the Harry Potter universe for John Doe.",
+        "tarot_card_description": "The Liberated Servant (Dobby) For John Doe Meaning (Upright): This card represents the transformative power of freedom, the strength found in overcoming adversity, and the courage to break free from limiting beliefs and self-imposed constraints. Dobby, the house-elf from the Harry Potter series, embodies this energy as he"
+      },
+      {
+        "augmented": true,
+        "universe_name": "Harry Potter",
+        "charactor_name": "Luna Lovegood",
+        "person_name": "Alice Doe",
+        "rationale": "create the tarot card description for Luna Lovegood for Alice Doe.",
+        "tarot_card_description": "The Enchantress (Luna Lovegood) For Alice Doe Meaning (Upright): This card represents the transformative power of imagination, the beauty of individuality, and the courage to embrace your unique perspective on the world. Luna Lovegood from the Harry Potter series embodies the essence of this card with her quirky wisdom, unwa"
+      }
+    ],
+    "signature_instructions": "Create a description of tarot card for given character.",
+    "signature_prefix": "Tarot Card Description:",
+    "extended_signature_instructions": "Create a description of tarot card for given character.",
+    "extended_signature_prefix": "Tarot Card Description:"
+  }
+}
